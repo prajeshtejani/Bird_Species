@@ -1,4 +1,4 @@
-# Bird_Species
+
 
 # Bird Species Classification using Convolutional Neural Networks
 This project aims to classify bird species using Convolutional Neural Networks (CNNs) implemented with TensorFlow and Keras. It utilizes a dataset containing images of various bird species.
